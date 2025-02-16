@@ -30,7 +30,7 @@ Here are some of my projects:
 ---
 
 ### 📫 **Connect with Me**  
-🔗 LinkedIn:  
+🔗 LinkedIn:https://www.linkedin.com/in/ajmal-khan-m-7577b4258/
 💻 GitHub:
 ✉️ Email:ajmalaju125196@gmail.com 
 
