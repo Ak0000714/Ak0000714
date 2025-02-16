@@ -19,11 +19,13 @@
 ### 🚀 **Projects**  
 Here are some of my projects:  
 
-1️⃣ **[Pocket Planner]()** – Personal expense tracker using **Flask, SQL, and AI (Linear Regression)**  
-2️⃣ **[Crowd Detection & Pathway Suggestion]()** – A computer vision project for **crowd analysis**  
-3️⃣ **[IPL Player Stats Dashboard](https://github.com/your-repo-link)** – Power BI dashboard for cricket statistics  
-4️⃣ **[Spring-based eCommerce API](https://github.com/your-repo-link)** – A backend API for **managing products in an eCommerce store**  
-5️⃣ **[Amazon Clone (Frontend)]()** – UI clone of **Amazon's website**  
+1️⃣ **[Pocket Planner](https://github.com/Ak0000714/Pocket-Planner)
+)** – Personal expense tracker using **Flask, SQL, and AI (Linear Regression)**  
+2️⃣ **[Crowd Detection & Pathway Suggestion](https://github.com/Ak0000714/crowed-detection-and-path-way-suggestion-)** – A computer vision project for **crowd analysis**  
+3️⃣ **[IPL Player Stats Dashboard](https://github.com/Ak0000714/IPL-DASHBOARD)** – Power BI dashboard for cricket statistics  
+4️⃣ **[Spring-based eCommerce API]()** – A backend API for **managing products in an eCommerce store**  
+5️⃣ **[Amazon Clone (Frontend)](https://github.com/Ak0000714/Amazon-Clone)** – UI clone of **Amazon's website**  
+
 
 ---
 
