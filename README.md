@@ -1,16 +1,16 @@
 ## 👋 Hi, I'm Ajmal Khan!  
 
-🚀 **3rd-year B.E. student at Karpagam College of Engineering**  
+🚀 **4th-year B.E. student at Karpagam College of Engineering**  
 💻 Passionate about **Software Development, fullstack Devloper, and Data Analytics**  
-📍 Exploring **Python, Java, Spring Boot, Flask, Power BI, and Computer Vision**  
+📍 Exploring **C++ Python, Java, Flask, Power BI, and Computer Vision**  
 
 ---
 
 ### 🔥 **Tech Stack & Skills**  
 - **Languages:** Python, Java, C, C++, JavaScript, SQL  
-- **Web Development:** HTML, CSS, JavaScript, Flask, Spring Boot  
+- **Web Development:** HTML, CSS, JavaScript, Flask 
 - **Databases:** MySQL
-- **Data Analysis & Visualization:** Power BI  
+- **Data Analysis & Visualization:** Power BI ,Tableau 
 - **Version Control:** Git & GitHub  
 - **Other Tools:** VS Code,Eclipse 
 
