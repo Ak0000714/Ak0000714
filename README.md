@@ -7,12 +7,13 @@
 ---
 
 ### 🔥 **Tech Stack & Skills**  
-- **Languages:** Python, Java, C, C++, JavaScript, SQL  
-- **Web Development:** HTML, CSS, JavaScript, Flask 
-- **Databases:** MySQL
-- **Data Analysis & Visualization:** Power BI ,Tableau
+- **Languages:** C++, Python, Java, C, JavaScript, SQL  
+- **Web Development:** HTML, CSS, JavaScript, Flask  
+- **Databases:** MySQL  
+- **Data Analysis & Visualization:** Power BI, Tableau  
+- **CRM & Cloud:** Salesforce Administrator, Salesforce Developer  
 - **Version Control:** Git & GitHub  
-- **Other Tools:** VS Code,Eclipse 
+- **Other Tools:** VS Code, Eclipse  
 
 ---
 
