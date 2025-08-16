@@ -25,6 +25,7 @@ Here are some of my projects:
 3️⃣ **[IPL Player Stats Dashboard](https://github.com/Ak0000714/IPL-DASHBOARD)** – Power BI dashboard for cricket statistics  
 4️⃣ **[Spring-based eCommerce API](https://github.com/Ak0000714/Ecommerce-api-)** – A backend API for **managing products in an eCommerce store**  
 5️⃣ **[Amazon Clone (Frontend)](https://github.com/Ak0000714/Amazon-Clone)** – UI clone of **Amazon's website**  
+and more  visit my dashboard-"https://github.com/dashboard"
 
 
 ---
